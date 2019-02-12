@@ -2,7 +2,10 @@
 
 
 .card-container  {
+    display: flex;
+    flex-direction: column;
     margin-left: 50px;
+    padding-right: 15px;
     border: 1px solid orangered;
 }
 
@@ -14,4 +17,8 @@
 .card-content {
     width: 560px;
     height: auto;
+}
+
+.card-paragraph {
+    padding-right: 60px;
 }

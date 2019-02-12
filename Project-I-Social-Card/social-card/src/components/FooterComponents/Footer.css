@@ -1,0 +1,14 @@
+/* CSS styling for Footer */
+
+
+.footer-content {
+    width: 100%;
+    height: 150px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
+}
